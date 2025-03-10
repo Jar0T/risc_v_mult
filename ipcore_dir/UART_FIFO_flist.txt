@@ -1,0 +1,16 @@
+# Output products list for <UART_FIFO>
+UART_FIFO/doc/fifo_generator_v9_3_readme.txt
+UART_FIFO/doc/fifo_generator_v9_3_vinfo.html
+UART_FIFO/doc/pg057-fifo-generator.pdf
+UART_FIFO/fifo_generator_v9_3_readme.txt
+UART_FIFO.asy
+UART_FIFO.gise
+UART_FIFO.ngc
+UART_FIFO.sym
+UART_FIFO.vhd
+UART_FIFO.vho
+UART_FIFO.xco
+UART_FIFO.xise
+UART_FIFO_flist.txt
+UART_FIFO_xmdf.tcl
+_xmsgs/pn_parser.xmsgs

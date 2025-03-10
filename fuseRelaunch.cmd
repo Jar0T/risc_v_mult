@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/jarek/RV32I/VGA_TB_isim_beh.exe" -prj "/home/jarek/RV32I/VGA_TB_beh.prj" "work.VGA_TB" 

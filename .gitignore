@@ -65,3 +65,6 @@ xlnx_auto_0_xdb/
 xst/
 _ngo/
 _xmsgs/
+
+# ip examples
+ipcore_dir/LPDDR_CONTROLLER/example_design
